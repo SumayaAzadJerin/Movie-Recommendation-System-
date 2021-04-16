@@ -76,5 +76,5 @@ Artificial Intelligence Project using Python
 
 
 
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+[![demo](https://img.youtube.com/vi/-R64Lh1Qwl_0.jpg)](https://www.youtube.com/watch?v=R64Lh1Qwl_0 "demo")
 
