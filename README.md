@@ -16,3 +16,65 @@ Artificial Intelligence Project using Python
 - [insert]
 - [insert]
 - [insert]
+
+
+
+
+
+
+
+
+
+
+
+##  B. ABSTRACT 
+
+
+
+
+
+
+
+
+
+
+
+
+## C.  DATASET
+
+
+
+
+
+
+
+
+
+## D.   PROJECT STRUCTURE
+
+
+
+
+
+
+
+
+
+## E.  RESULT AND CONCLUSION
+
+
+
+
+
+
+
+## F.   PROJECT PRESENTATION 
+
+
+
+
+
+
+
+
+[![demo](https://img.youtube.com/vi/-EF6fqnnl3Uk/0.jpg)](https://www.youtube.com/watch?v=- EF6fqnnl3Uk"demo")
