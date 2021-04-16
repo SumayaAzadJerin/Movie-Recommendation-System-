@@ -76,6 +76,5 @@ Artificial Intelligence Project using Python
 
 
 
-[![demo](https://img.youtube.com/vi/-ueKXSupHz6Q.jpg)](https://www.youtube.com/watch?v=-ueKXSupHz6Q "demo")
-
+[![Movie Recommendation System Demo Video](https://img.youtube.com/vi/ueKXSupHz6Q/0.jpg)](https://www.youtube.com/watch?v=ueKXSupHz6Q "demo")
 
