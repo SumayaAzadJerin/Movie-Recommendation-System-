@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[22]:
-
 
 #import libraries
 import pandas as pd
@@ -11,29 +6,15 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-# In[23]:
-
-
 #load csv files
 df=pd.read_csv(r'C:\Users\jerin\OneDrive\Desktop\AI_BITI1113\movie_dataset.csv') 
-
-df.head()
-
-
-# In[24]:
-
 
 #select attirbutes
 attributes = ['cast','genres','director']
 
-
-
 #create function for combining values 
 def combine_attributes(row): 
     return row['cast']+" "+row['genres']+" "+row['director']
-
-
-# In[25]:
 
 
 #fill NAN with blank string
@@ -46,10 +27,6 @@ df["combined_attributes"] = df.apply(combine_attributes,axis=1)
 #select sinlge row from dataframe
 df.iloc[0].combined_attributes
 
-
-# In[26]:
-
-
 #create obj
 obj = CountVectorizer() 
 
@@ -58,9 +35,6 @@ count_matrix = obj.fit_transform(df["combined_attributes"])
 
 #get cosine similarity
 cosine_similar = cosine_similarity(count_matrix)
-
-
-# In[27]:
 
 
 #get index from movie title
@@ -73,14 +47,7 @@ movie_index = index_from_title(user_likes_movie)
 similar_movies = list(enumerate(cosine_similar[movie_index]))
 
 
-# In[28]:
-
-
 sorted_similar_movies = sorted(similar_movies,key=lambda x:x[1],reverse=True)[1:]
-
-
-# In[29]:
-
 
 #get movie title from index
 def title_from_index(index):
@@ -96,7 +63,7 @@ for movie in sorted_similar_movies:
         break
 
 
-# In[ ]:
+
 
 
 
