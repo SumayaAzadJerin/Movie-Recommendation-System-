@@ -30,7 +30,7 @@ df.iloc[0].combined_attributes
 #create obj
 obj = CountVectorizer() 
 
-#stroing attributes into CountVectorizer() obj
+#storing attributes into CountVectorizer() obj
 count_matrix = obj.fit_transform(df["combined_attributes"]) 
 
 #get cosine similarity
