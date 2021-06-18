@@ -12,10 +12,10 @@ Artificial Intelligence Project using Python
 
 
 - [ ] **Objectives:**
-- Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- To search for content that would be interesting to an individual
+- To help people make the right choices, without having to expend their cognitive resources.
+- To help the people find something they like.
+
 
 
 
