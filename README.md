@@ -12,9 +12,9 @@ Artificial Intelligence Project using Python
 
 
 - [ ] **Objectives:**
--Help the user to search malaysian movies based on their interest.
--To identify most relavent movies for each users within short time.
--To avoid unnecessaries movies.
+- Help the user to search malaysian movies based on their interest.
+- To identify most relavent movies for each users within short time.
+- To avoid unnecessaries movies.
 
 
 
