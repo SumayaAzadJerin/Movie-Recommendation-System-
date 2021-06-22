@@ -8,7 +8,7 @@ Artificial Intelligence Project using Python
 - Sumaya Azad Jerin
 - Aida Syafawati Binti Abdullah
 - Nur Fairuza Syahira Binti Nor Hidan
-- Nur Fajar Adillah Binti Abdullah
+
 
 
 - [ ] **Objectives:**
