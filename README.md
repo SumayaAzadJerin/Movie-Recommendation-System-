@@ -12,7 +12,7 @@ Artificial Intelligence Project using Python
 
 
 - [ ] **Objectives:**
-- To search for malay movie that would be interesting to an individual
+- To recommend malaysian movies on individual's interest
 - To help the people find related movie they like.
 
 
