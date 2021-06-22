@@ -5,9 +5,9 @@ Artificial Intelligence Project using Python
 **Project Title:**Movie-Recommendation-System
 
 **Team Members:** 
-- Sumaya Azad Jerin
-- Aida Syafawati Binti Abdullah
-- Nur Fairuza Syahira Binti Nor Hidan
+- Sumaya Azad Jerin(B031920511)
+- Aida Syafawati Binti Abdullah(B031910304)
+- Nur Fairuza Syahira Binti Nor Hidan(B031910233)
 
 
 
