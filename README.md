@@ -84,7 +84,7 @@ The dataset/ directory contains the data described in the “Movie Recommendatio
 
 ##  H. Acknowledgement
 We refer these websites for building Our project
--https://www.codeheroku.com/
--https://medium.com/@cyberwillis/epoch-training-validation-testing-sets-whats-all-this-means-61d501a42497
--https://www.w3schools.com/python/python_ml_train_test.asp
+- https://www.codeheroku.com/
+- https://medium.com/@cyberwillis/epoch-training-validation-testing-sets-whats-all-this-means-61d501a42497
+- https://www.w3schools.com/python/python_ml_train_test.asp
 
