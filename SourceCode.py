@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
 
 #import libraries
@@ -80,7 +79,7 @@ for movie in sorted_similar_movies:
     
 
 
-# In[ ]:
+
 
 
 
