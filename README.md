@@ -83,6 +83,7 @@ You can clerk in any movie that you want to watch and the system will provide 10
 
 ![New Project (1)](https://user-images.githubusercontent.com/82071078/123362928-16df0700-d5a4-11eb-9dd0-d50eb7820762.jpg)
 
+![New Project](https://user-images.githubusercontent.com/82071078/123363041-51e13a80-d5a4-11eb-815d-c258206f41d9.jpg)
 
 
 ## F.   PROJECT PRESENTATION 
