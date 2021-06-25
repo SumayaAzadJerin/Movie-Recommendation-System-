@@ -39,9 +39,10 @@ We used cosine similarity method for creating this contend based recommendation 
 
 Cos(x, y) = x . y / ||x|| * ||y||
 where,
-x . y = product (dot) of the vectors ‘x’ and ‘y’.
-||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
-||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’
+
+*x . y = product (dot) of the vectors ‘x’ and ‘y’.
+*||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
+*||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’
 
 
 <img width="364" alt="123" src="https://user-images.githubusercontent.com/82071078/123366819-78ef3a80-d5ab-11eb-9dc3-90c7b3826084.PNG">
