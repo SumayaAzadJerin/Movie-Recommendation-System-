@@ -76,14 +76,21 @@ Two images provided are the examples of dataset from two types of movie recommen
 
 
 ## E.  RESULT AND CONCLUSION
-Nowadays recommendation system is popular on various platform like Netflix,Amamzon, facebook and so on.This project is used to build movie recommendation system using python in machine learning environment.
-
-- You can clerk in any movie that you want to watch and the system will provide 10 recommendation list of movies that related with.Here are our output:
 
 
--  ![New Project (1)](https://user-images.githubusercontent.com/82071078/123362928-16df0700-d5a4-11eb-9dd0-d50eb7820762.jpg)
+You can clerk in any movie that you want to watch and the system will provide 10 recommendation list of movies that related with.
 
- - ![New Project](https://user-images.githubusercontent.com/82071078/123363041-51e13a80-d5a4-11eb-815d-c258206f41d9.jpg)
+
+![New Project (1)](https://user-images.githubusercontent.com/82071078/123362928-16df0700-d5a4-11eb-9dd0-d50eb7820762.jpg)
+
+*The figure shows input movie of ***Avatar*** and the system will provide 10 recommendation movies that related with Avatar.*
+
+
+![New Project](https://user-images.githubusercontent.com/82071078/123363041-51e13a80-d5a4-11eb-815d-c258206f41d9.jpg)
+
+*The figure shows 10 recommendation movies that related with ***Titanic***.*
+
+
 
 
 ## F.   PROJECT PRESENTATION 
