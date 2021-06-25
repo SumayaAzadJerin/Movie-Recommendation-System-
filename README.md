@@ -12,7 +12,7 @@ Artificial Intelligence Project using Python
 
 
 - [ ] **Objectives:**
-- Help the user to search movies based on their interest.
+- Help the user to search english movies based on their interest.
 - To identify most relavent movies for each users within short time.
 - To avoid unnecessaries movies.
 
@@ -29,33 +29,30 @@ Artificial Intelligence Project using Python
 
 ##  B. ABSTRACT 
 
-Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the most popular items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems. Therefore, our group develop the  movie recommendation system.This contend based recommendation system where content will be shown based on the user input.
+Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the most popular items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems. Therefore, our group develop the recommendation movie for the english movie. The movie from various of genres such as action, romantic, comedy, horor, documentation and etc.
+
+
 
 
 ![template](https://user-images.githubusercontent.com/82071078/123038802-a5784a80-d423-11eb-9da7-26e2d5bcdadc.jpg)
 
 
-We used cosine similarity method for creating this contend based recommendation system.Cosine similarity is a metric, helpful in determining, how similar the data objects are irrespective of their size.We can measure the similarity between two sentences in Python using Cosine it. In cosine similarity, data objects in a dataset are treated as a vector. The formula to find the cosine similarity between two vectors is –
-
-Cos(x, y) = x . y / ||x|| * ||y||
-where,
-
- x . y = product (dot) of the vectors ‘x’ and ‘y’.
- 
- 
-||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
-
-
-||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’
-
-
-<img width="364" alt="123" src="https://user-images.githubusercontent.com/82071078/123366819-78ef3a80-d5ab-11eb-9dc3-90c7b3826084.PNG">
-
-The figure shows cosine similary, vector in python code
 
 
 
 ## C.  DATASET
+For this project, we use movie dataset that we get from the internet. This dataset contain 4810 of english movie details. We use three columns from the data which is id, vote_average and popularity.
+
+
+![Coding](https://github.com/SumayaAzadJerin/Movie-Recommendation-System-/blob/main/moviedata.PNG)
+
+*The figure shows sample of the dataset.* 
+
+
+
+
+We choose this three column because from the popularity we can know the the movie is interesting for the audience or not.
+
 
 
 
@@ -75,11 +72,10 @@ $ tree --dirsfirst --filelimit 6
 - ├── SourceCode.py
 - ├── Testing Dataset.py
 - ├── movie_dataset.csv
-- ├── moviedata.csv
 - ├── output 1.png
 - ├── plot.png
 
-7 files
+6 files
 
 The dataset/ directory contains the data described in the “Movie Recommendation System Dataset” section.
 
