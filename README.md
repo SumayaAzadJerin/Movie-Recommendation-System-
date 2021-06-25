@@ -38,7 +38,7 @@ Nowadays we live in era of abundance. For any given product, there are many of o
 
 *The figure shows the flow for the Movie Recommendation system.*
 
-From the figure, we can see when user watch a movie, the system will generate or display the similar movie for the user to watch. The recommendation maybe from the same genres or cast from the previous movie.
+From the figure, we can see when user watch or rate a movie, the system will generate or display the similar movie for the user to watch. The recommendation maybe from the same genres or cast from the previous movie.
 
 
 
@@ -53,10 +53,9 @@ For this project, we use movie dataset that we get from the internet. This datas
 *The figure shows sample of the dataset.* 
 
 
-
-
 We choose this three column because when someone watch the movie he or she want to know and watch the other movie that the same cast acting. From that the recommendation is helpful for the user.
 
+This recommendation is c
 
 
 
@@ -95,7 +94,7 @@ Two images provided are the examples of dataset from two types of movie recommen
 
 
 
-Nowadays recommendation system is popular on various platform like Netflix,Amamzon, facebook and so on.This project is used to build movie recommendation system using python in machine learning environment. This is content based recommendation system where the system will take data from user, either user will click movie or rate any movie, so the system will save the information on its database and  suggest user the similar content. If user put more input the system will be more accurate.
+Nowadays, recommendation system is popular on various platform like Netflix,Amamzon, facebook and so on.This project is used to build movie recommendation system using python in machine learning environment. This is content based recommendation system where the system will take data from user, either user will click movie or rate any movie, so the system will save the information on its database and  suggest user the similar content. If user put more input the system will be more accurate.
 
  You can clerk in any movie that you want to watch and the system will provide 10 recommendation list of movies that related with.Here are our output:
 
@@ -120,7 +119,7 @@ Nowadays recommendation system is popular on various platform like Netflix,Amamz
 
 
 
-##  H. Acknowledgement
+##  G. Acknowledgement
 We refer these websites for building Our project
 - https://www.codeheroku.com/
 - https://medium.com/@cyberwillis/epoch-training-validation-testing-sets-whats-all-this-means-61d501a42497
