@@ -50,13 +50,28 @@ For this project, we use movie dataset that we get from the internet. This datas
 
 ![Coding](https://github.com/SumayaAzadJerin/Movie-Recommendation-System-/blob/main/SAVE_20210625_111141.jpg)
 
-*The figure shows sample of the dataset.* 
+*The figure shows three column sample of the dataset.* 
 
 
 We choose this three column because when someone watch the movie he or she want to know and watch the other movie that the same cast acting. From that the recommendation is helpful for the user.
 
-This recommendation is c
+This is content based filtering recommendation system, we make this using cosine similarity which is a metric, helpful in determining, how similar the data objects are irrespective of their size. We can measure the similarity between two sentences in Python using Cosine it. In cosine similarity, data objects in a dataset are treated as a vector. The formula to find the cosine similarity between two vectors is –
 
+
+Cos(x, y) = x . y / ||x|| * ||y||
+
+where
+
+x . y = product (dot) of the vectors ‘x’ and ‘y’.
+
+
+||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
+
+
+||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’.
+
+
+so we make our dataset column into matrix using counterVector matrix and put into cosine similairy for getting our expected data
 
 
 
