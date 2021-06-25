@@ -36,6 +36,10 @@ Nowadays we live in era of abundance. For any given product, there are many of o
 
 ![template](https://user-images.githubusercontent.com/82071078/123038802-a5784a80-d423-11eb-9da7-26e2d5bcdadc.jpg)
 
+*The figure shows the flow for the Movie Recommendation system.*
+
+From the figure, we can see when user watch a movie, the system will generate or display the similar movie for the user to watch. The recommendation maybe from the same genres or cast from the previous movie.
+
 
 
 
