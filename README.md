@@ -81,8 +81,9 @@ This figure shows code in python
 
 
 
+<img width="555" alt="gh" src="https://user-images.githubusercontent.com/82071078/123380795-777d3c80-d5c2-11eb-9e1f-398a4382e8b8.PNG">
 
-
+This figure shows how the engine sort similar movies
 
 ## D.   PROJECT STRUCTURE
 
