@@ -56,16 +56,19 @@ The following directory is our structure of our project:
 
 $ tree --dirsfirst --filelimit 6
 
->__ Output 2.png
->__ SourceCode.py
->__ Testing Dataset.py
->__ movie_dataset.csv
->__ output 1.png
->__ plot.png
+- ├── Output 2.png
+- ├── SourceCode.py
+- ├── Testing Dataset.py
+- ├── movie_dataset.csv
+- ├── output 1.png
+- ├── plot.png
 
 6 files
 
 The dataset/ directory contains the data described in the “Movie Recommendation System Dataset” section.
+
+Two images provided are the examples of dataset from two types of movie recommended which is output 1 and output 2.
+
 
 
 
@@ -74,6 +77,8 @@ The dataset/ directory contains the data described in the “Movie Recommendatio
 
 ## E.  RESULT AND CONCLUSION
 
+
+You can clerk in any movie that you want to watch and the system will provide 10 recommendation list of movies that related with.
 
 
 
