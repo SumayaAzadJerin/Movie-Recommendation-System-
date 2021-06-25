@@ -18,15 +18,6 @@ Artificial Intelligence Project using Python
 
 
 
-
-
-
-
-
-
-
-
-
 ##  B. ABSTRACT 
 
 Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the  items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems.There are several types of recommendation such as collaborative based filtering,content based filtering,hybrid filtering. Therefore, our group develop the content based recommendation movie engine for the english movie. The movie contains various of genres such as action, romantic, comedy, horor, documentation and etc. This recommendation based on attribute of movies 
@@ -91,7 +82,11 @@ we use scikitlearn for testing,training and plotting our dataset,we used these c
 
 
 
+<img width="638" alt="split" src="https://user-images.githubusercontent.com/82071078/123382992-2e7ab780-d5c5-11eb-8d41-c674a401cf1f.PNG">
 
+This figure shows splitting column dataset
+
+We have split  80% for testing and 20% for training these column of dataset
 
 
 
