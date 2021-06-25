@@ -67,14 +67,14 @@ so we make our dataset column into matrix using counterVector matrix and put thi
 
 <img width="551" alt="co" src="https://user-images.githubusercontent.com/82071078/123380391-f756d700-d5c1-11eb-8a81-4f521c961446.PNG">
 
-This figure shows code in python
+*This figure shows code in python*
 
 
 
 
 <img width="555" alt="gh" src="https://user-images.githubusercontent.com/82071078/123380795-777d3c80-d5c2-11eb-9e1f-398a4382e8b8.PNG">
 
-This figure shows how the engine sort similar movies
+*This figure shows how the engine sort similar movies*
 
 
 we use scikitlearn for testing,training and plotting our dataset,we used these column from dataset fro train,test, and plot 
@@ -84,15 +84,17 @@ we use scikitlearn for testing,training and plotting our dataset,we used these c
 
 <img width="638" alt="split" src="https://user-images.githubusercontent.com/82071078/123382992-2e7ab780-d5c5-11eb-8d41-c674a401cf1f.PNG">
 
-This figure shows splitting column dataset
+*This figure shows splitting column dataset*
 
 We have split  80% for testing and 20% for training these column of dataset
 
 ![image](https://user-images.githubusercontent.com/82071078/123383739-1bb4b280-d5c6-11eb-9c7d-9e0a9dd2e489.png)
-This figure shows code for plotting
+
+*This figure shows code for plotting*
 
 <img width="441" alt="plot" src="https://user-images.githubusercontent.com/82071078/123381196-fd00ec80-d5c2-11eb-81e0-b6380e4c6cd9.PNG">
-This graph shows the accuracy 
+
+*This graph shows the accuracy* 
 
 We can see the accuracy of our dataset from plotting.
 
