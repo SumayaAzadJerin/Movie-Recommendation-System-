@@ -44,7 +44,9 @@ x . y = product (dot) of the vectors ‘x’ and ‘y’.
 ||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’
 
 
+<img width="364" alt="123" src="https://user-images.githubusercontent.com/82071078/123366819-78ef3a80-d5ab-11eb-9dc3-90c7b3826084.PNG">
 
+The figure shows cosine similary, vector python code
 
 
 ## C.  DATASET
