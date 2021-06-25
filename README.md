@@ -89,12 +89,12 @@ Nowadays recommendation system is popular on various platform like Netflix,Amamz
 
 ![New Project (1)](https://user-images.githubusercontent.com/82071078/123362928-16df0700-d5a4-11eb-9dd0-d50eb7820762.jpg)
 
-*The figure shows input movie of ***Avatar*** and the system will provide 10 recommendation movies that related with **Avatar**
+*The figure shows 10 recommendation movies that related with ***Avatar***.* 
 
 
 ![New Project](https://user-images.githubusercontent.com/82071078/123363041-51e13a80-d5a4-11eb-815d-c258206f41d9.jpg)
 
-*The figure shows input movie of ****Titanic*** and the system will provide 10 recommendation movies that related with **Titanic**
+*The figure shows 10 recommendation movies that related with ***Titanic***.*
 
 
 
