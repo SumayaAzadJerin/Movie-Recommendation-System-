@@ -5,6 +5,10 @@ Artificial Intelligence Project using Python
 **Project Title**:**Movie-Recommendation-System**
 
 **Team Members:** 
+
+<img width="606" alt="fgh" src="https://user-images.githubusercontent.com/82071078/123425695-0b67fc00-d5f5-11eb-8a4d-3d40a3547f0b.PNG">
+
+
 - Sumaya Azad Jerin(B031920511)
 - Aida Syafawati Binti Abdullah(B031910304)
 - Nur Fairuza Syahira Binti Nor Hidan(B031910233)
