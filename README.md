@@ -71,8 +71,12 @@ x . y = product (dot) of the vectors ‘x’ and ‘y’.
 ||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’.
 
 
-so we make our dataset column into matrix using counterVector matrix and put into cosine similairy for getting our expected data
+so we make our dataset column into matrix using counterVector matrix and put this into cosine similairy for getting our expected data
 
+
+<img width="551" alt="co" src="https://user-images.githubusercontent.com/82071078/123380391-f756d700-d5c1-11eb-8a81-4f521c961446.PNG">
+
+This figure shows code in python
 
 
 
