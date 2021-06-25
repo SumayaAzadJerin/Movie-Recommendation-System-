@@ -77,7 +77,8 @@ so we make our dataset column into matrix using counterVector matrix and put thi
 *This figure shows how the engine sort similar movies*
 
 
-we use scikitlearn for testing,training and plotting our dataset,we used these column from dataset fro train,test, and plot 
+we use scikitlearn for testing,training and plotting our dataset,we used these column from dataset fro train,test,and plot
+
 ![moviedata](https://user-images.githubusercontent.com/82071078/123382078-19515900-d5c4-11eb-9832-d70488d225c7.PNG)
 
 
