@@ -69,7 +69,7 @@ This recommendation is c
 
 The following directory is our structure of our project:
 
-$ tree --dirsfirst --filelimit 6
+$ tree --dirsfirst --filelimit 8
 
 - ├── Output 2.png
 - ├── SourceCode.py
@@ -77,8 +77,10 @@ $ tree --dirsfirst --filelimit 6
 - ├── movie_dataset.csv
 - ├── output 1.png
 - ├── plot.png
+- ├── SAVE_20210625_111141.jpg
+- ├── moviedata.png
 
-6 files
+8 files
 
 The dataset/ directory contains the data described in the “Movie Recommendation System Dataset” section.
 
