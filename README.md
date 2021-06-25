@@ -86,7 +86,17 @@ This figure shows code in python
 This figure shows how the engine sort similar movies
 
 
+we use scikitlearn for testing,training and plotting our dataset,we used these column from dataset fro train,test, and plot 
+![moviedata](https://user-images.githubusercontent.com/82071078/123382078-19515900-d5c4-11eb-9832-d70488d225c7.PNG)
+
+
+
+
+
+
+
 <img width="441" alt="plot" src="https://user-images.githubusercontent.com/82071078/123381196-fd00ec80-d5c2-11eb-81e0-b6380e4c6cd9.PNG">
+This graph shows the accuracy 
 
 ## D.   PROJECT STRUCTURE
 
