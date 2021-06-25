@@ -41,17 +41,17 @@ Nowadays we live in era of abundance. For any given product, there are many of o
 
 
 ## C.  DATASET
-For this project, we use movie dataset that we get from the internet. This dataset contain 4810 of english movie details. We use three columns from the data which is id, vote_average and popularity.
+For this project, we use movie dataset that we get from the internet. This dataset contain 4810 of english movie details. We use three columns from the data which is genres, cast and keyword. Genres and cast data is important to make use the recommendation is related.
 
 
-![Coding](https://github.com/SumayaAzadJerin/Movie-Recommendation-System-/blob/main/moviedata.PNG)
+![Coding](https://github.com/SumayaAzadJerin/Movie-Recommendation-System-/blob/main/SAVE_20210625_111141.jpg)
 
 *The figure shows sample of the dataset.* 
 
 
 
 
-We choose this three column because from the popularity we can know the the movie is interesting for the audience or not.
+We choose this three column because when someone watch the movie he or she want to know and watch the other movie that the same cast acting. From that the recommendation is helpful for the user.
 
 
 
