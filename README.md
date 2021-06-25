@@ -88,10 +88,13 @@ This figure shows splitting column dataset
 
 We have split  80% for testing and 20% for training these column of dataset
 
-
+![image](https://user-images.githubusercontent.com/82071078/123383739-1bb4b280-d5c6-11eb-9c7d-9e0a9dd2e489.png)
+This figure shows code for plotting
 
 <img width="441" alt="plot" src="https://user-images.githubusercontent.com/82071078/123381196-fd00ec80-d5c2-11eb-81e0-b6380e4c6cd9.PNG">
 This graph shows the accuracy 
+
+We can see the accuracy of our dataset from plotting.
 
 ## D.   PROJECT STRUCTURE
 
@@ -112,7 +115,8 @@ $ tree --dirsfirst --filelimit 8
 
 The dataset/ directory contains the data described in the “Movie Recommendation System Dataset” section.
 
-Two images provided are the examples of dataset from two types of movie recommended which is output 1 and output 2.
+Two images provided are the examples of the engine of movie recommended which is output 1 and output 2.
+
 
 
 
@@ -126,7 +130,7 @@ Two images provided are the examples of dataset from two types of movie recommen
 
 Nowadays, recommendation system is popular on various platform like Netflix,Amamzon, facebook and so on.This project is used to build movie recommendation system using python in machine learning environment. This is content based recommendation system where the system will take data from user, either user will click movie or rate any movie, so the system will save the information on its database and  suggest user the similar content. If user put more input the system will be more accurate.
 
- You can clerk in any movie that you want to watch and the system will provide 10 recommendation list of movies that related with.Here are our output:
+ You can search any movie that you want to watch and the system will provide 10 recommendation list of movies that related with.Here are our output:
 
 
 
