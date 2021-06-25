@@ -2,7 +2,7 @@
 Artificial Intelligence Project using Python
 ## A. PROJECT SUMMARY
 
-**Project Title:**Movie-Recommendation-System
+**Project Title:**Movie-Recommendation-System***
 
 **Team Members:** 
 - Sumaya Azad Jerin(B031920511)
