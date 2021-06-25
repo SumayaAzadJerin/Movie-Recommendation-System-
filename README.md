@@ -100,6 +100,8 @@ We have split  80% for testing and 20% for training these column of dataset
 
 *This figure shows code for plotting*
 
+
+
 <img width="441" alt="plot" src="https://user-images.githubusercontent.com/82071078/123381196-fd00ec80-d5c2-11eb-81e0-b6380e4c6cd9.PNG">
 
 *This graph shows the accuracy* 
