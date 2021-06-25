@@ -29,7 +29,7 @@ Artificial Intelligence Project using Python
 
 ##  B. ABSTRACT 
 
-Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the most popular items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems. Therefore, our group develop the recommendation movie for the english movie. The movie from various of genres such as action, romantic, comedy, horor, documentation and etc.
+Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the  items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems.There are several types of recommendation such as collaborative based filtering,content based filtering,hybrid filtering. Therefore, our group develop the content based recommendation movie engine for the english movie. The movie contains various of genres such as action, romantic, comedy, horor, documentation and etc. This recommendation based on attribute of movies 
 
 
 
@@ -84,6 +84,9 @@ This figure shows code in python
 <img width="555" alt="gh" src="https://user-images.githubusercontent.com/82071078/123380795-777d3c80-d5c2-11eb-9e1f-398a4382e8b8.PNG">
 
 This figure shows how the engine sort similar movies
+
+
+<img width="441" alt="plot" src="https://user-images.githubusercontent.com/82071078/123381196-fd00ec80-d5c2-11eb-81e0-b6380e4c6cd9.PNG">
 
 ## D.   PROJECT STRUCTURE
 
