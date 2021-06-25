@@ -83,11 +83,18 @@ we use scikitlearn for testing,training and plotting our dataset,we used these c
 
 
 
+
+We have split  80% for testing and 20% for training these column of dataset
+
+
+
 <img width="638" alt="split" src="https://user-images.githubusercontent.com/82071078/123382992-2e7ab780-d5c5-11eb-8d41-c674a401cf1f.PNG">
 
 *This figure shows splitting column dataset*
 
-We have split  80% for testing and 20% for training these column of dataset
+
+
+
 
 ![image](https://user-images.githubusercontent.com/82071078/123383739-1bb4b280-d5c6-11eb-9c7d-9e0a9dd2e489.png)
 
