@@ -12,7 +12,7 @@ Artificial Intelligence Project using Python
 
 
 - [ ] **Objectives:**
-- Help the user to search malaysian movies based on their interest.
+- Help the user to search movies based on their interest.
 - To identify most relavent movies for each users within short time.
 - To avoid unnecessaries movies.
 
@@ -51,7 +51,8 @@ where,
 
 <img width="364" alt="123" src="https://user-images.githubusercontent.com/82071078/123366819-78ef3a80-d5ab-11eb-9dc3-90c7b3826084.PNG">
 
-The figure shows cosine similary, vector python code
+The figure shows cosine similary, vector in python code
+
 
 
 ## C.  DATASET
