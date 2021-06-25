@@ -29,12 +29,19 @@ Artificial Intelligence Project using Python
 
 ##  B. ABSTRACT 
 
-Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the most popular items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems. Therefore, our group develop the recommendation movie for the malay movie.
-
-
+Nowadays we live in era of abundance. For any given product, there are many of options to choose from. For example like streaming videos, social networking, online shopping; the list goes on. Recommender systems help to personalize a platform and help the user find something they like. The easiest and simplest way to do this is to recommend the most popular items. However, to really enhance the user experience through personalized recommendations, we need dedicated recommender systems. Therefore, our group develop the  movie recommendation system.This contend based recommendation system where content will be shown based on the user input.
 
 
 ![template](https://user-images.githubusercontent.com/82071078/123038802-a5784a80-d423-11eb-9da7-26e2d5bcdadc.jpg)
+
+
+We used cosine similarity method for creating this contend based recommendation system.Cosine similarity is a metric, helpful in determining, how similar the data objects are irrespective of their size.We can measure the similarity between two sentences in Python using Cosine it. In cosine similarity, data objects in a dataset are treated as a vector. The formula to find the cosine similarity between two vectors is –
+
+Cos(x, y) = x . y / ||x|| * ||y||
+where,
+x . y = product (dot) of the vectors ‘x’ and ‘y’.
+||x|| and ||y|| = length of the two vectors ‘x’ and ‘y’.
+||x|| * ||y|| = cross product of the two vectors ‘x’ and ‘y’
 
 
 
