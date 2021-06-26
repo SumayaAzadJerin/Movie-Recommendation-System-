@@ -6,7 +6,7 @@ Artificial Intelligence Project using Python
 
 **Team Members:** 
 
-<img width="606" alt="fgh" src="https://user-images.githubusercontent.com/82071078/123425695-0b67fc00-d5f5-11eb-8a4d-3d40a3547f0b.PNG">
+
 
 
 - Sumaya Azad Jerin(B031920511)
