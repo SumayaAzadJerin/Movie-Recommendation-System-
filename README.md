@@ -6,12 +6,13 @@ Artificial Intelligence Project using Python
 
 **Team Members:** 
 
-
+<img width="622" alt="github" src="https://user-images.githubusercontent.com/82071078/123513674-e6d95600-d6c0-11eb-9906-23ab082f08ad.PNG">
 
 
 - Sumaya Azad Jerin(B031920511)
 - Aida Syafawati Binti Abdullah(B031910304)
 - Nur Fairuza Syahira Binti Nor Hidan(B031910233)
+- Nur Fajar Adillah (B031910373)
 
 
 
