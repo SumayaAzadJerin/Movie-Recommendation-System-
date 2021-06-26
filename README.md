@@ -168,7 +168,7 @@ Nowadays, recommendation system is popular on various platform like Netflix,Amam
 
 Please click below to watch video on youtube.Thank you!!
 
-[![Movie Recommendation System](https://img.youtube.com/vi/azgyUE408Ck/1.jpg)](https://www.youtube.com/watch?v=azgyUE408Ck "Movie Recommendation system")
+[![Movie Recommendation System](https://img.youtube.com/vi/azgyUE408Ck.jpg)](https://www.youtube.com/watch?v=azgyUE408Ck "Movie Recommendation system")
 
 
 
